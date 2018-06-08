@@ -22,6 +22,7 @@
 
 <style scoped>
     #product-list-one {
+        color: darkolivegreen;
         background: #FFF8B1;
         box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
         margin-bottom: 30px;
